@@ -1,0 +1,30 @@
+.nav-wrapper {
+    padding: 0 2rem;
+}
+.imgCustom {
+    height: 436px;
+}
+
+.block {
+    text-align: center;
+}
+
+.block img {
+    height: auto;
+    max-width: 600px;
+}
+
+.block p {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.card-action.actives {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.price {
+    font-size: 2rem;
+}
